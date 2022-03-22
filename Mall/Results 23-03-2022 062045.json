@@ -1,0 +1,4505 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#CarParkAvailability",
+    "value": [
+        {
+            "Agency": "LTA",
+            "Area": "Marina",
+            "AvailableLots": 2745,
+            "CarParkID": "1",
+            "Development": "Suntec City",
+            "Location": "1.29375 103.85718",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Marina",
+            "AvailableLots": 1853,
+            "CarParkID": "2",
+            "Development": "Marina Square",
+            "Location": "1.29115 103.85728",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Marina",
+            "AvailableLots": 758,
+            "CarParkID": "4",
+            "Development": "The Esplanade",
+            "Location": "1.29011 103.85561",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Marina",
+            "AvailableLots": 1275,
+            "CarParkID": "5",
+            "Development": "Millenia Singapore",
+            "Location": "1.29251 103.86009",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Harbfront",
+            "AvailableLots": 1384,
+            "CarParkID": "16",
+            "Development": "VivoCity P3",
+            "Location": "1.26421 103.82263",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Harbfront",
+            "AvailableLots": 1591,
+            "CarParkID": "17",
+            "Development": "Sentosa",
+            "Location": "1.25017 103.83126",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Harbfront",
+            "AvailableLots": 688,
+            "CarParkID": "19",
+            "Development": "Harbourfront Centre",
+            "Location": "1.26426 103.82011",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Harbfront",
+            "AvailableLots": 850,
+            "CarParkID": "50",
+            "Development": "VivoCity P2",
+            "Location": "1.26426 103.82164",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 496,
+            "CarParkID": "20",
+            "Development": "Far East Plaza",
+            "Location": "1.3071 103.83359",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 381,
+            "CarParkID": "18",
+            "Development": "Tang Plaza",
+            "Location": "1.30491 103.83312",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 258,
+            "CarParkID": "15",
+            "Development": "Wheelock Place",
+            "Location": "1.3048 103.83063",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 1128,
+            "CarParkID": "13",
+            "Development": "Ngee Ann City",
+            "Location": "1.30236 103.8349",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 156,
+            "CarParkID": "12",
+            "Development": "Mandarin Hotel",
+            "Location": "1.30216 103.83601",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 282,
+            "CarParkID": "11",
+            "Development": "Cineleisure",
+            "Location": "1.30151 103.83641",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 314,
+            "CarParkID": "21",
+            "Development": "Centrepoint",
+            "Location": "1.302 103.83975",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 205,
+            "CarParkID": "24",
+            "Development": "313@Somerset",
+            "Location": "1.30084 103.83872",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 228,
+            "CarParkID": "7",
+            "Development": "Orchard Point",
+            "Location": "1.30135 103.84061",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 276,
+            "CarParkID": "22",
+            "Development": "Concorde Hotel",
+            "Location": "1.3006 103.84191",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 694,
+            "CarParkID": "9",
+            "Development": "Plaza Singapura",
+            "Location": "1.30103 103.84503",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 150,
+            "CarParkID": "10",
+            "Development": "The Cathay",
+            "Location": "1.2995 103.84762",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 465,
+            "CarParkID": "23",
+            "Development": "ION Orchard",
+            "Location": "1.30403 103.83206",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 290,
+            "CarParkID": "14",
+            "Development": "Wisma Atria",
+            "Location": "1.30366 103.83327",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 151,
+            "CarParkID": "8",
+            "Development": "The Heeren",
+            "Location": "1.30255 103.83739",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Harbfront",
+            "AvailableLots": 2427,
+            "CarParkID": "26",
+            "Development": "Resorts World Sentosa",
+            "Location": "1.25667 103.82012",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 274,
+            "CarParkID": "27",
+            "Development": "Orchard Central",
+            "Location": "1.30072 103.83979",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Marina",
+            "AvailableLots": 955,
+            "CarParkID": "29",
+            "Development": "Marina Bay Sands",
+            "Location": "1.28225028515239 103.858300275795",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "JurongLakeDistrict",
+            "AvailableLots": 520,
+            "CarParkID": "43",
+            "Development": "Westgate",
+            "Location": "1.3343 103.74282",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 250,
+            "CarParkID": "52",
+            "Development": "Orchard Gateway",
+            "Location": "1.30048 103.83931",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "JurongLakeDistrict",
+            "AvailableLots": 877,
+            "CarParkID": "53",
+            "Development": "IMM Building",
+            "Location": "1.334847 103.746815",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "JurongLakeDistrict",
+            "AvailableLots": 285,
+            "CarParkID": "54",
+            "Development": "JCube",
+            "Location": "1.33341 103.740088",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 405,
+            "CarParkID": "55",
+            "Development": "Paragon",
+            "Location": "1.3038 103.83585",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Marina",
+            "AvailableLots": 207,
+            "CarParkID": "56",
+            "Development": "National Gallery",
+            "Location": "1.29027 103.85167",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Orchard",
+            "AvailableLots": 50,
+            "CarParkID": "57",
+            "Development": "The Atrium@Orchard",
+            "Location": "1.299781 103.84552",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 311,
+            "CarParkID": "58",
+            "Development": "Bukit Panjang Plaza",
+            "Location": "1.37974 103.7644",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 408,
+            "CarParkID": "59",
+            "Development": "Clarke Quay",
+            "Location": "1.290678 103.84648",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 768,
+            "CarParkID": "60",
+            "Development": "The Star Vista",
+            "Location": "1.306787 103.78843",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 320,
+            "CarParkID": "61",
+            "Development": "Bugis+",
+            "Location": "1.299748 103.85414",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 303,
+            "CarParkID": "62",
+            "Development": "Lot One",
+            "Location": "1.385126 103.74494",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 638,
+            "CarParkID": "63",
+            "Development": "Tampines Mall",
+            "Location": "1.352524 103.9447",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 290,
+            "CarParkID": "64",
+            "Development": "Junction 8",
+            "Location": "1.350521 103.84859",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 244,
+            "CarParkID": "65",
+            "Development": "Bedok Mall",
+            "Location": "1.3248 103.92939",
+            "LotType": "C"
+        },
+        {
+            "Agency": "LTA",
+            "Area": "Others",
+            "AvailableLots": 377,
+            "CarParkID": "66",
+            "Development": "Funan Mall",
+            "Location": "1.2911 103.8502",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A0007",
+            "Development": "ANGULLIA PARK OFF STREET",
+            "Location": "1.3053280313212745 103.82957069514487",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 264,
+            "CarParkID": "A0007",
+            "Development": "ANGULLIA PARK OFF STREET",
+            "Location": "1.3053280313212745 103.82957069514487",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "A0011",
+            "Development": "ARMENIAN STREET OFF STREET",
+            "Location": "1.2939260442319098 103.84886606187928",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A0021",
+            "Development": "AMOY STREET OFF STREET",
+            "Location": "1.280790422979401 103.84717734239698",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A0024",
+            "Development": "ADAM ROAD FOOD CENTRE OFF STREET",
+            "Location": "1.3241651253846303 103.81389905715554",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 47,
+            "CarParkID": "A0035",
+            "Development": "ANTHONY ROAD OFF STREET",
+            "Location": "1.3102963501645526 103.83689301654506",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 5,
+            "CarParkID": "A0046",
+            "Development": "ALJUNIED ROAD OFF STREET",
+            "Location": "1.3138928367737375 103.88178819343076",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 4,
+            "CarParkID": "B0031",
+            "Development": "BEATTY ROAD OFF STREET",
+            "Location": "1.31411103114537 103.85960539693774",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 121,
+            "CarParkID": "B0032",
+            "Development": "BUKIT TIMAH MARKET OFF STREET",
+            "Location": "1.3390889296394692 103.77639634689159",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 58,
+            "CarParkID": "B0063",
+            "Development": "BUKIT BATOK NATURE PARK OFF STREET",
+            "Location": "1.3473952305359211 103.76148104730633",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 24,
+            "CarParkID": "B0087",
+            "Development": "BAGHDAD STREET OFF STREET",
+            "Location": "1.3013034071461544 103.86037519945218",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 36,
+            "CarParkID": "B0088",
+            "Development": "BEDOK ROAD FOOD CENTRE OFF STREET",
+            "Location": "1.320882494257288 103.95521451777431",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 22,
+            "CarParkID": "B0096",
+            "Development": "BUKIT TIMAH LINK OFF STREET",
+            "Location": "1.3413345543964925 103.7768692104473",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 21,
+            "CarParkID": "C0119",
+            "Development": "CEYLON ROAD OFF STREET",
+            "Location": "1.3098549757016427 103.89943305397595",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "C0133",
+            "Development": "CARPENTER STREET OFF STREET",
+            "Location": "1.2882657599727703 103.84818289117743",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 227,
+            "CarParkID": "C0148",
+            "Development": "CLEMENCEAU AVENUE NORTH (NEWTON FC)",
+            "Location": "1.3110998019417506 103.83975443423321",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "C0162",
+            "Development": "CLEMENCEAU AVENUE OFF STREET",
+            "Location": "1.2939732461823374 103.84451675349408",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C0162",
+            "Development": "CLEMENCEAU AVENUE OFF STREET",
+            "Location": "1.2939732461823374 103.84451675349408",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 52,
+            "CarParkID": "D0006",
+            "Development": "DUXTON HILL OFF STREET",
+            "Location": "1.279121361423107 103.84307668605454",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 6,
+            "CarParkID": "D0026",
+            "Development": "DICKSON ROAD OFF STREET",
+            "Location": "1.305896126598381 103.85356732694177",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 42,
+            "CarParkID": "D0026",
+            "Development": "DICKSON ROAD OFF STREET",
+            "Location": "1.305896126598381 103.85356732694177",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 215,
+            "CarParkID": "D0028",
+            "Development": "DELTA CIRCUS FRINGE CAR PARK",
+            "Location": "1.2893051001281517 103.82465436208551",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "E0023",
+            "Development": "EAST COAST PARK E3 OFF STREET",
+            "Location": "1.3086487746583644 103.9362443048082",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 1,
+            "CarParkID": "E0023",
+            "Development": "EAST COAST PARK E3 OFF STREET",
+            "Location": "1.3086487746583644 103.9362443048082",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 296,
+            "CarParkID": "E0024",
+            "Development": "EAST COAST PARK E2 OFF STREET",
+            "Location": "1.307348456008773 103.93582213821071",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "E0024",
+            "Development": "EAST COAST PARK E2 OFF STREET",
+            "Location": "1.307348456008773 103.93582213821071",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 501,
+            "CarParkID": "E0027",
+            "Development": "EAST COAST PARK E1 OFF STREET",
+            "Location": "1.306893520703497 103.92999292150216",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "E0027",
+            "Development": "EAST COAST PARK E1 OFF STREET",
+            "Location": "1.306893520703497 103.92999292150216",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "H0003",
+            "Development": "HAMILTON ROAD OFF STREET",
+            "Location": "1.3116896699384313 103.86174541990424",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 73,
+            "CarParkID": "H0004",
+            "Development": "HOLLAND DR/NORTH BOUNA VISTA RD OFF STREET",
+            "Location": "1.3119377250802409 103.79266055694679",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 176,
+            "CarParkID": "H0011",
+            "Development": "HOLLAND DRIVE OFF STREET",
+            "Location": "1.3106947365170691 103.79320773289525",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 9,
+            "CarParkID": "H0015",
+            "Development": "HINDOO ROAD OFF STREET",
+            "Location": "1.3085901317745132 103.85406595189491",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 18,
+            "CarParkID": "H0022",
+            "Development": "HULLET ROAD OFF STREET",
+            "Location": "1.3032004091309377 103.83904302350693",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 3,
+            "CarParkID": "H0024",
+            "Development": "HONG LIM PARK OFF STREET",
+            "Location": "1.2864010712092964 103.84732683484889",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 13,
+            "CarParkID": "H0057",
+            "Development": "HINDOO ROAD/KAMPONG KAPOR ROAD OFF STREET",
+            "Location": "1.307959413362438 103.85449803048786",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 29,
+            "CarParkID": "J0017",
+            "Development": "JOO CHIAT ROAD OFF STREET",
+            "Location": "1.3089312793016843 103.90342597378925",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 58,
+            "CarParkID": "J0017",
+            "Development": "JOO CHIAT ROAD OFF STREET",
+            "Location": "1.3089312793016843 103.90342597378925",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "J0055",
+            "Development": "JALAN SEH CHUAN OFF STREET",
+            "Location": "1.3416072968225916 103.77498352136544",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 33,
+            "CarParkID": "J0092",
+            "Development": "JALAN KURAS OFF STREET",
+            "Location": "1.3733164289278814 103.82902743813321",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 25,
+            "CarParkID": "J0100",
+            "Development": "JALAN PELEPAH OFF STREET",
+            "Location": "1.2740710679512592 103.79551529813891",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "J0100",
+            "Development": "JALAN PELEPAH OFF STREET",
+            "Location": "1.2740710679512592 103.79551529813891",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 118,
+            "CarParkID": "J0122",
+            "Development": "JALAN KAYU OFF STREET",
+            "Location": "1.3988702481648212 103.87298020876878",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 18,
+            "CarParkID": "K0037",
+            "Development": "KING GEORGES AVENUE OFF STREET",
+            "Location": "1.3102875316446452 103.86155503310928",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 39,
+            "CarParkID": "K0039",
+            "Development": "KING GEORGES AVENUE/ HORNE ROAD OFF STREET",
+            "Location": "1.310011717603521 103.86195254067123",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 5,
+            "CarParkID": "K0082",
+            "Development": "KAMPONG BUGIS OFF STREET",
+            "Location": "1.3060643999336945 103.86731520521826",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 20,
+            "CarParkID": "K0082",
+            "Development": "KAMPONG BUGIS OFF STREET",
+            "Location": "1.3060643999336945 103.86731520521826",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 7,
+            "CarParkID": "K0111",
+            "Development": "KINTA ROAD OFF STREET",
+            "Location": "1.309743436667126 103.8532569434198",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 78,
+            "CarParkID": "K0111",
+            "Development": "KINTA ROAD OFF STREET",
+            "Location": "1.309743436667126 103.8532569434198",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 34,
+            "CarParkID": "K0121",
+            "Development": "KAMPONG KAPOR ROAD OFF STREET",
+            "Location": "1.306579163961294 103.8540518138273",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 12,
+            "CarParkID": "K0121",
+            "Development": "KAMPONG KAPOR ROAD OFF STREET",
+            "Location": "1.306579163961294 103.8540518138273",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 13,
+            "CarParkID": "L0064",
+            "Development": "LORONG 21 GEYLANG OFF STREET",
+            "Location": "1.3138418922590445 103.87984207773486",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 22,
+            "CarParkID": "L0078",
+            "Development": "LORONG MYDIN OFF STREET",
+            "Location": "1.3191579615926596 103.91187813269345",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 12,
+            "CarParkID": "L0104",
+            "Development": "LORONG BEKUKONG OFF STREET",
+            "Location": "1.3902114129018883 103.98732091158162",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "L0104",
+            "Development": "LORONG BEKUKONG OFF STREET",
+            "Location": "1.3902114129018883 103.98732091158162",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 11,
+            "CarParkID": "L0107",
+            "Development": "LORONG BACHOK OFF STREET",
+            "Location": "1.3137312534590921 103.879441454655",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 10,
+            "CarParkID": "L0116",
+            "Development": "LORONG 21 GEYLANG / GEYLANG ROAD OFF ST",
+            "Location": "1.31297192802134 103.88051592242522",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 55,
+            "CarParkID": "L0117",
+            "Development": "LORONG 25/25A GEYLANG OFF STREET",
+            "Location": "1.3154114085899413 103.88282913196923",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 20,
+            "CarParkID": "L0117",
+            "Development": "LORONG 25/25A GEYLANG OFF STREET",
+            "Location": "1.3154114085899413 103.88282913196923",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 1,
+            "CarParkID": "L0123",
+            "Development": "LORONG 9/11 GEYLANG OFF STREET",
+            "Location": "1.3132431536109048 103.87646592168618",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 38,
+            "CarParkID": "L0123",
+            "Development": "LORONG 9/11 GEYLANG OFF STREET",
+            "Location": "1.3132431536109048 103.87646592168618",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 17,
+            "CarParkID": "L0124",
+            "Development": "LORONG 37 GEYLANG OFF STREET",
+            "Location": "1.315091678312372 103.88943334952766",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 23,
+            "CarParkID": "L0124",
+            "Development": "LORONG 37 GEYLANG OFF STREET",
+            "Location": "1.315091678312372 103.88943334952766",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "L0125",
+            "Development": "LORONG 31 GEYLANG OFF STREET",
+            "Location": "1.3150474541189423 103.88714181973822",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 21,
+            "CarParkID": "L0125",
+            "Development": "LORONG 31 GEYLANG OFF STREET",
+            "Location": "1.3150474541189423 103.88714181973822",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 97,
+            "CarParkID": "M0040",
+            "Development": "MACKENZIE ROAD A OFF STREET",
+            "Location": "1.305166862591867 103.84955574725188",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 60,
+            "CarParkID": "M0059",
+            "Development": "MACKENZIE ROAD B OFF STREET",
+            "Location": "1.3058536746242326 103.8475647241317",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 24,
+            "CarParkID": "M0059",
+            "Development": "MACKENZIE ROAD B OFF STREET",
+            "Location": "1.3058536746242326 103.8475647241317",
+            "LotType": "H"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 12,
+            "CarParkID": "M0076",
+            "Development": "MINBU ROAD OFF STREET",
+            "Location": "1.3252001004070917 103.84890841545035",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 109,
+            "CarParkID": "M0076",
+            "Development": "MINBU ROAD OFF STREET",
+            "Location": "1.3252001004070917 103.84890841545035",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 235,
+            "CarParkID": "M0078",
+            "Development": "MARITIME SQUARE D OFF STREET",
+            "Location": "1.2665572188609842 103.82037098540381",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 192,
+            "CarParkID": "M0078",
+            "Development": "MARITIME SQUARE D OFF STREET",
+            "Location": "1.2665572188609842 103.82037098540381",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 35,
+            "CarParkID": "M0084",
+            "Development": "MARINA VIEW OFF STREET",
+            "Location": "1.2746496875172093 103.84947277096812",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 43,
+            "CarParkID": "M0088",
+            "Development": "MARGARET DRIVE OFF STREET",
+            "Location": "1.3004199971190697 103.80301640122015",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 10,
+            "CarParkID": "N0006",
+            "Development": "NEIL ROAD OFF STREET",
+            "Location": "1.2793383109971352 103.84191274173004",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "N0012",
+            "Development": "NORTH BRIDGE ROAD MARKET OFF STREET",
+            "Location": "1.3060825735308885 103.86355580061468",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "N0013",
+            "Development": "NORTH BRIDGE ROAD OFF  STREET",
+            "Location": "1.3004003577425078 103.8566466267615",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "O0028",
+            "Development": "OUTRAM ROAD OFF STREET",
+            "Location": "1.2843804032417943 103.83543041047004",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 19,
+            "CarParkID": "O0028",
+            "Development": "OUTRAM ROAD OFF STREET",
+            "Location": "1.2843804032417943 103.83543041047004",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 75,
+            "CarParkID": "P0013",
+            "Development": "PRINCE EDWARD ROAD / SHENTON WAY OFF STREET",
+            "Location": "1.2751330286026683 103.84819161939349",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 339,
+            "CarParkID": "P0033",
+            "Development": "PASIR RIS CLOSE OFF STREET",
+            "Location": "1.3769386098723717 103.95649247971937",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 18,
+            "CarParkID": "P0048",
+            "Development": "PEARL BANK OFF STREET",
+            "Location": "1.2833483597834672 103.84053784909122",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "P0048",
+            "Development": "PEARL BANK OFF STREET",
+            "Location": "1.2833483597834672 103.84053784909122",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 27,
+            "CarParkID": "P0054",
+            "Development": "PASIR PANJANG FOOD CENTRE OFF STREET",
+            "Location": "1.276199590285395 103.79131016138153",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "P0054",
+            "Development": "PASIR PANJANG FOOD CENTRE OFF STREET",
+            "Location": "1.276199590285395 103.79131016138153",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 8,
+            "CarParkID": "P0075",
+            "Development": "PENHAS ROAD / LAVENDER STREET OFF STREET",
+            "Location": "1.3099941806456645 103.86276472942548",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 1,
+            "CarParkID": "P0093",
+            "Development": "PASIR PANJANG ROAD OFF  STREET",
+            "Location": "1.2767043723268199 103.79566016940372",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "P0094",
+            "Development": "PASIR PANJANG ROAD / SOUTH BUONA VISTA ROAD",
+            "Location": "1.278902209141637 103.78560248250301",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 23,
+            "CarParkID": "P0094",
+            "Development": "PASIR PANJANG ROAD / SOUTH BUONA VISTA ROAD",
+            "Location": "1.278902209141637 103.78560248250301",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 9,
+            "CarParkID": "P0096",
+            "Development": "PENANG ROAD OFF STREET",
+            "Location": "1.29980874920638 103.84212527391578",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 39,
+            "CarParkID": "P0106",
+            "Development": "PASIR PANJANG ROAD/ CLEMENTI ROAD OFF ST",
+            "Location": "1.2915978691049539 103.76812504370315",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "P0106",
+            "Development": "PASIR PANJANG ROAD/ CLEMENTI ROAD OFF ST",
+            "Location": "1.2915978691049539 103.76812504370315",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 11,
+            "CarParkID": "P0109",
+            "Development": "PASIR RIS PARK CAR PARK E OFF STREET",
+            "Location": "1.3845964153673076 103.94389307173311",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 31,
+            "CarParkID": "P0111",
+            "Development": "PAHANG STREET OFF STREET",
+            "Location": "1.301759650174214 103.86086565472472",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "P0113",
+            "Development": "PASIR PANJANG FOOD CENTRE (TEMP) OFF ST",
+            "Location": "1.2753574846084121 103.79247441821592",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 60,
+            "CarParkID": "P0113",
+            "Development": "PASIR PANJANG FOOD CENTRE (TEMP) OFF ST",
+            "Location": "1.2753574846084121 103.79247441821592",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "P0117",
+            "Development": "PECK SEAH STREET OFF STREET",
+            "Location": "1.2774732980425016 103.84526725130084",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 74,
+            "CarParkID": "P0117",
+            "Development": "PECK SEAH STREET OFF STREET",
+            "Location": "1.2774732980425016 103.84526725130084",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "Q0006",
+            "Development": "QUEEN STREET OFF STREET",
+            "Location": "1.2999226816586922 103.85336325926622",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "Q0006",
+            "Development": "QUEEN STREET OFF STREET",
+            "Location": "1.2999226816586922 103.85336325926622",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 51,
+            "CarParkID": "Q0008",
+            "Development": "QUEENSWAY OFF STREET ( RIDEOUT TEA GARDEN)",
+            "Location": "1.304678940975563 103.80216512483725",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 2,
+            "CarParkID": "S0020",
+            "Development": "SEMBAWANG HILLS FOOD CENTRE OFF STREET",
+            "Location": "1.3722654677464599 103.8288231857784",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 5,
+            "CarParkID": "S0049",
+            "Development": "Serangoon Rd/Lavender  St Off Street",
+            "Location": "1.3148874577182357 103.8585875713976",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 105,
+            "CarParkID": "S0049",
+            "Development": "Serangoon Rd/Lavender  St Off Street",
+            "Location": "1.3148874577182357 103.8585875713976",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 36,
+            "CarParkID": "S0055",
+            "Development": "SERANGOON GARDEN MARKET OFF STREET",
+            "Location": "1.3627998667047532 103.86632587825486",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 49,
+            "CarParkID": "S0106",
+            "Development": "SIN MING DRIVE OFF STREET",
+            "Location": "1.3566926857648622 103.83606317799318",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 23,
+            "CarParkID": "S0108",
+            "Development": "SHREWSBURY ROAD OFF STREET",
+            "Location": "1.3186024746953806 103.85067798545586",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 3,
+            "CarParkID": "S0108",
+            "Development": "SHREWSBURY ROAD OFF STREET",
+            "Location": "1.3186024746953806 103.85067798545586",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 372,
+            "CarParkID": "S0112",
+            "Development": "SEAH IM ROAD OFF STREET",
+            "Location": "1.2680395173231764 103.81759598210823",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 397,
+            "CarParkID": "S0112",
+            "Development": "SEAH IM ROAD OFF STREET",
+            "Location": "1.2680395173231764 103.81759598210823",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 51,
+            "CarParkID": "S0150",
+            "Development": "SULTAN GATE / ALIWAL STREET OFF STREET",
+            "Location": "1.3024545607005944 103.86058819582028",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 48,
+            "CarParkID": "S0166",
+            "Development": "SEMBAWANG RD/ADMIRALTY  RD EAST OFF STREET",
+            "Location": "1.453699410782659 103.83314342266785",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 7,
+            "CarParkID": "S0166",
+            "Development": "SEMBAWANG RD/ADMIRALTY  RD EAST OFF STREET",
+            "Location": "1.453699410782659 103.83314342266785",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 93,
+            "CarParkID": "S0171",
+            "Development": "SPOONER ROAD OFF STREET",
+            "Location": "1.275688921017539 103.8350591496928",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 19,
+            "CarParkID": "T0017",
+            "Development": "TIONG BAHRU PARK OFF STREET",
+            "Location": "1.2869316650017533 103.82464089829915",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 155,
+            "CarParkID": "T0103",
+            "Development": "TEMBELING ROAD OFF STREET",
+            "Location": "1.3128601116279206 103.90081283677726",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 35,
+            "CarParkID": "T0103",
+            "Development": "TEMBELING ROAD OFF STREET",
+            "Location": "1.3128601116279206 103.90081283677726",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 360,
+            "CarParkID": "T0129",
+            "Development": "TANJONG KATONG COMPLEX",
+            "Location": "1.3168901823921382 103.89522931567416",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 21,
+            "CarParkID": "T0140",
+            "Development": "TANJONG KATONG ROAD OFF STREET",
+            "Location": "1.3068395612884625 103.89608109872438",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 121,
+            "CarParkID": "T0140",
+            "Development": "TANJONG KATONG ROAD OFF STREET",
+            "Location": "1.3068395612884625 103.89608109872438",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 7,
+            "CarParkID": "T0141",
+            "Development": "TANJONG KATONG RD OFF ST (OPP WILKINSON RD)",
+            "Location": "1.3039250916354699 103.89688542898858",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 31,
+            "CarParkID": "T0141",
+            "Development": "TANJONG KATONG RD OFF ST (OPP WILKINSON RD)",
+            "Location": "1.3039250916354699 103.89688542898858",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 51,
+            "CarParkID": "U0036",
+            "Development": "UPPER EAST COAST ROAD OFF STREET",
+            "Location": "1.3122387155540085 103.92605288490613",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 2,
+            "CarParkID": "U0042",
+            "Development": "UPPER CHANGI ROAD / BEDOK ROAD OFF STREET",
+            "Location": "1.3321242011794179 103.9464677456276",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "V0007",
+            "Development": "VERDUN ROAD OFF STREET",
+            "Location": "1.310324224867271 103.85612855572867",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 64,
+            "CarParkID": "W0029",
+            "Development": "WEST COAST PARK 1 OFF STREET",
+            "Location": "1.2896228087061794 103.77142607054463",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 12,
+            "CarParkID": "W0055",
+            "Development": "WARNA ROAD OFF STREET",
+            "Location": "1.3110802058970243 103.79619690369877",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "Y0019",
+            "Development": "YAN KIT ROAD / CANTONMENT ROAD OFF ST",
+            "Location": "1.274548916040047 103.8414295793987",
+            "LotType": "C"
+        },
+        {
+            "Agency": "URA",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "Y0019",
+            "Development": "YAN KIT ROAD / CANTONMENT ROAD OFF ST",
+            "Location": "1.274548916040047 103.8414295793987",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 80,
+            "CarParkID": "A2",
+            "Development": "BLK 206/207 ANG MO KIO STREET 22",
+            "Location": "1.366237056 103.8430464",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 112,
+            "CarParkID": "A4",
+            "Development": "BLK 217/220 ANG MO KIO AVENUE 1",
+            "Location": "1.365691621 103.8411922",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 122,
+            "CarParkID": "A7",
+            "Development": "BLK 212/213 ANG MO KIO STREET 23",
+            "Location": "1.368392487 103.8413018",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 5,
+            "CarParkID": "A8",
+            "Development": "BLK 209/210 ANG MO KIO STREET 22",
+            "Location": "1.368756071 103.8433077",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 62,
+            "CarParkID": "A9",
+            "Development": "BLK 202/203 ANG MO KIO STREET 22",
+            "Location": "1.36807437 103.8443922",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 511,
+            "CarParkID": "B6",
+            "Development": "BLK 204/209 NEW UPPER CHANGI ROAD",
+            "Location": "1.326330497 103.9303395",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 22,
+            "CarParkID": "B7",
+            "Development": "BLK 211/218 BEDOK NORTH STREET 1",
+            "Location": "1.32513124 103.9319217",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 47,
+            "CarParkID": "B8",
+            "Development": "BLK 201/203 BEDOK NORTH STREET 1",
+            "Location": "1.325881496 103.9282762",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 91,
+            "CarParkID": "B9",
+            "Development": "BLK 402/403 BEDOK NORTH AVENUE 3",
+            "Location": "1.330172709 103.9338152",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C5",
+            "Development": "BLK 358-360,362-363,366-367 CLEMENTI AVE 2",
+            "Location": "1.313102659 103.7695739",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 207,
+            "CarParkID": "C5",
+            "Development": "BLK 358-360,362-363,366-367 CLEMENTI AVE 2",
+            "Location": "1.313102659 103.7695739",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 122,
+            "CarParkID": "C5",
+            "Development": "BLK 358-360,362-363,366-367 CLEMENTI AVE 2",
+            "Location": "1.313102659 103.7695739",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 121,
+            "CarParkID": "C6",
+            "Development": "BLK 328-334 CLEMENTI AVE 2",
+            "Location": "1.314488114 103.7676912",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 226,
+            "CarParkID": "C7",
+            "Development": "BLK 349-355 CLEMENTI AVE 2",
+            "Location": "1.314842819 103.7705785",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 173,
+            "CarParkID": "C8",
+            "Development": "BLK 335/338 CLEMENTI AVE 2",
+            "Location": "1.316674657 103.7686311",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 65,
+            "CarParkID": "C9",
+            "Development": "BLK 340/342/343/346-348 CLEMENTI AVE 5",
+            "Location": "1.317649249 103.7703123",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C9",
+            "Development": "BLK 340/342/343/346-348 CLEMENTI AVE 5",
+            "Location": "1.317649249 103.7703123",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 183,
+            "CarParkID": "C9",
+            "Development": "BLK 340/342/343/346-348 CLEMENTI AVE 5",
+            "Location": "1.317649249 103.7703123",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 2,
+            "CarParkID": "CY",
+            "Development": "BLK 269/269A/269B CHENG YAN COURT CAR PARK",
+            "Location": "1.300626028 103.8536649",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "H3",
+            "Development": "BLK 87 ZION RD",
+            "Location": "1.291008687 103.8325154",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 52,
+            "CarParkID": "H3",
+            "Development": "BLK 87 ZION RD",
+            "Location": "1.291008687 103.8325154",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 113,
+            "CarParkID": "H3",
+            "Development": "BLK 87 ZION RD",
+            "Location": "1.291008687 103.8325154",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 81,
+            "CarParkID": "H4",
+            "Development": "BLK 22 HAVELOCK RD",
+            "Location": "1.288093897 103.8293714",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 71,
+            "CarParkID": "H6",
+            "Development": "BLK 77/79 GANGES AVENUE",
+            "Location": "1.291369664 103.8289836",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 46,
+            "CarParkID": "H8",
+            "Development": "BLKS 4-8 TAMAN HO SWEE",
+            "Location": "1.287726965 103.8309221",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "H8",
+            "Development": "BLKS 4-8 TAMAN HO SWEE",
+            "Location": "1.287726965 103.8309221",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 22,
+            "CarParkID": "H8",
+            "Development": "BLKS 4-8 TAMAN HO SWEE",
+            "Location": "1.287726965 103.8309221",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 120,
+            "CarParkID": "J1",
+            "Development": "BLK 101/107 JURONG EAST ST 13",
+            "Location": "1.336429723 103.7380983",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 81,
+            "CarParkID": "J2",
+            "Development": "BLK 108/110 JURONG EAST ST 13",
+            "Location": "1.33860776 103.7367713",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 119,
+            "CarParkID": "J3",
+            "Development": "BLK 111/116 JURONG EAST ST 13",
+            "Location": "1.339494837 103.7354848",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 29,
+            "CarParkID": "J4",
+            "Development": "BLK 201/206 JURONG EAST ST 21",
+            "Location": "1.337530169 103.7419026",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 109,
+            "CarParkID": "J5",
+            "Development": "BLK 207/208 JURONG EAST ST 21",
+            "Location": "1.338314475 103.7424182",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 90,
+            "CarParkID": "J6",
+            "Development": "BLK 209/214 JURONG EAST ST 21",
+            "Location": "1.3390681 103.7388514",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 292,
+            "CarParkID": "J7",
+            "Development": "BLK 215A/231 JURONG EAST ST 21",
+            "Location": "1.341543873 103.7380331",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 116,
+            "CarParkID": "J8",
+            "Development": "BLK 232/240 JURONG EAST ST 21",
+            "Location": "1.340430194 103.741574",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 43,
+            "CarParkID": "J9",
+            "Development": "BLK 241/245 JURONG EAST ST 24",
+            "Location": "1.342122435 103.7420009",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 38,
+            "CarParkID": "K2",
+            "Development": "BLK 9,10,12 PINE CLOSE",
+            "Location": "1.308736475 103.8823513",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "K2",
+            "Development": "BLK 9,10,12 PINE CLOSE",
+            "Location": "1.308736475 103.8823513",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 39,
+            "CarParkID": "K2",
+            "Development": "BLK 9,10,12 PINE CLOSE",
+            "Location": "1.308736475 103.8823513",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 138,
+            "CarParkID": "K7",
+            "Development": "BLK 51 OLD AIRPORT ROAD",
+            "Location": "1.308894519 103.8860169",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 16,
+            "CarParkID": "L1",
+            "Development": "BLK 415-420 LOR LEW LIAN",
+            "Location": "1.349505832 103.8753546",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 130,
+            "CarParkID": "M1",
+            "Development": "BLK 85 TO 94/92A PIPIT ROAD",
+            "Location": "1.323074781 103.8864364",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "M1",
+            "Development": "BLK 85 TO 94/92A PIPIT ROAD",
+            "Location": "1.323074781 103.8864364",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 78,
+            "CarParkID": "M1",
+            "Development": "BLK 85 TO 94/92A PIPIT ROAD",
+            "Location": "1.323074781 103.8864364",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 19,
+            "CarParkID": "M3",
+            "Development": "BLK 19 TO 21/23/24/30/32 BALAM RD",
+            "Location": "1.330680856 103.8857074",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 149,
+            "CarParkID": "M4",
+            "Development": "BLK 22/34/36 CIRCUIT RD",
+            "Location": "1.329022794 103.8876597",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 141,
+            "CarParkID": "P1",
+            "Development": "BLK 196 PUNGGOL FIELD",
+            "Location": "1.399325523 103.907016",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 114,
+            "CarParkID": "P2",
+            "Development": "BLK 199 PUNGGOL FIELD",
+            "Location": "1.400096829 103.9060155",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 327,
+            "CarParkID": "P3",
+            "Development": "BLK 101 PUNGGOL FIELD",
+            "Location": "1.398456837 103.9057745",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 125,
+            "CarParkID": "P4",
+            "Development": "BLK 105 EDGEFIELD PLAINS",
+            "Location": "1.397227162 103.9056229",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 190,
+            "CarParkID": "P5",
+            "Development": "BLK 107 PUNGGOL FIELD",
+            "Location": "1.396877555 103.9076419",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 241,
+            "CarParkID": "P6",
+            "Development": "BLK 109 PUNGGOL FIELD",
+            "Location": "1.395368569 103.9094623",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 424,
+            "CarParkID": "P7",
+            "Development": "BLK 119 EDGEFIELD PLAINS",
+            "Location": "1.395427967 103.9064702",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 147,
+            "CarParkID": "P8",
+            "Development": "BLK 126 EDGEDALE PLAINS",
+            "Location": "1.394228446 103.9109139",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 180,
+            "CarParkID": "P9",
+            "Development": "BLK 128 PUNGGOL FIELD WALK",
+            "Location": "1.392923918 103.9125375",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 49,
+            "CarParkID": "Q8",
+            "Development": "BLK 19/23A/23B QUEENS CLOSE",
+            "Location": "1.294206414 103.7995693",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "Q8",
+            "Development": "BLK 19/23A/23B QUEENS CLOSE",
+            "Location": "1.294206414 103.7995693",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 29,
+            "CarParkID": "Q8",
+            "Development": "BLK 19/23A/23B QUEENS CLOSE",
+            "Location": "1.294206414 103.7995693",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 149,
+            "CarParkID": "T1",
+            "Development": "BLK 101/108 TAMPINES ST 11",
+            "Location": "1.347395724 103.9462336",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 68,
+            "CarParkID": "T3",
+            "Development": "BLK 109/114 TAMPINES ST 11",
+            "Location": "1.346598132 103.9474328",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 38,
+            "CarParkID": "T4",
+            "Development": "BLK 124/127 TAMPINES STREET 11",
+            "Location": "1.345420018 103.9498142",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 78,
+            "CarParkID": "T7",
+            "Development": "BLK 136/138 TAMPINES ST 11",
+            "Location": "1.345469697 103.9458054",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 165,
+            "CarParkID": "T8",
+            "Development": "BLK 137/139 TAMPINES ST 11",
+            "Location": "1.346414231 103.9441901",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 187,
+            "CarParkID": "T9",
+            "Development": "BLK 140/148 TAMPINES STREET 12",
+            "Location": "1.347816332 103.9436467",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 159,
+            "CarParkID": "U1",
+            "Development": "BLK 101/110 BUKIT BATOK WEST AVE 6",
+            "Location": "1.348389703 103.7469815",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 376,
+            "CarParkID": "U2",
+            "Development": "BLK 111/132 BUKIT BATOK WEST AVE 6",
+            "Location": "1.349872484 103.7463093",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 45,
+            "CarParkID": "U3",
+            "Development": "BLK 133/139 BUKIT BATOK WEST AVENUE 6",
+            "Location": "1.351391957 103.7443516",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 49,
+            "CarParkID": "U4",
+            "Development": "BLK 140/143 BUKIT BATOK STREET 11",
+            "Location": "1.350653565 103.74322",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 25,
+            "CarParkID": "U5",
+            "Development": "BLK 144/149 BUKIT BATOK WEST AVENUE 6",
+            "Location": "1.350137241 103.7446779",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "U6",
+            "Development": "BLK 150/158 BUKIT BATOK STREET 11",
+            "Location": "1.348029518 103.7441035",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 130,
+            "CarParkID": "U7",
+            "Development": "BLK 159/164 BUKIT BATOK STREET 11",
+            "Location": "1.348707664 103.7420927",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 26,
+            "CarParkID": "U8",
+            "Development": "BLK 165/168 BUKIT BATOK WEST AVENUE 8",
+            "Location": "1.347161979 103.7418946",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 25,
+            "CarParkID": "U9",
+            "Development": "BLK 169/177 BUKIT BATOK WEST AVENUE 8",
+            "Location": "1.345845573 103.7411926",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 217,
+            "CarParkID": "W3",
+            "Development": "BLK 4A/6A WOODLANDS CENTRE ROAD",
+            "Location": "1.4406995 103.7695026",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 40,
+            "CarParkID": "W4",
+            "Development": "BLK 6/7 MARSILING DRIVE",
+            "Location": "1.442458149 103.7767461",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 177,
+            "CarParkID": "W5",
+            "Development": "BLK 10/13 MARSILING LANE",
+            "Location": "1.440754097 103.7781943",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 5,
+            "CarParkID": "W6",
+            "Development": "BLK 15/16 MARSILING LANE",
+            "Location": "1.442102474 103.777954",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "W7",
+            "Development": "BLK 17/21 MARSILING LANE",
+            "Location": "1.443136124 103.7776083",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 109,
+            "CarParkID": "Y1",
+            "Development": "BLK 101/102 YISHUN AVE 5",
+            "Location": "1.430844543 103.8280357",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 164,
+            "CarParkID": "Y2",
+            "Development": "BLK 103/111 YISHUN RING ROAD",
+            "Location": "1.432166554 103.8280589",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 79,
+            "CarParkID": "Y3",
+            "Development": "BLK 112/120 YISHUN RING ROAD",
+            "Location": "1.434711422 103.8288865",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 198,
+            "CarParkID": "Y4",
+            "Development": "BLK 121/143 YISHUN STREET 11/RING ROAD",
+            "Location": "1.434754103 103.8315408",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 46,
+            "CarParkID": "Y5",
+            "Development": "BLK 144/149 YISHUN STREET 11",
+            "Location": "1.431114532 103.8321076",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 82,
+            "CarParkID": "Y6",
+            "Development": "BLK 150/161 YISHUN STREET 11",
+            "Location": "1.432523042 103.8341941",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 204,
+            "CarParkID": "Y7",
+            "Development": "BLK 701/716 & 701B YISHUN AVENUE 5",
+            "Location": "1.427301818 103.8274505",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 272,
+            "CarParkID": "Y8",
+            "Development": "BLK 731/746 YISHUN STREET 71,72/AVENUE 5",
+            "Location": "1.429444919 103.8312781",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 120,
+            "CarParkID": "Y9",
+            "Development": "BLK 747/752 YISHUN STREET 72",
+            "Location": "1.427830914 103.8340126",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 14,
+            "CarParkID": "A10",
+            "Development": "BLK 201/202 ANG MO KIO STREET 22",
+            "Location": "1.368632982 103.844524",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 114,
+            "CarParkID": "A11",
+            "Development": "BLK 223/226/226A-226D ANG MO KIO ST 22",
+            "Location": "1.367035534 103.8381811",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 91,
+            "CarParkID": "A12",
+            "Development": "BLK 229/230 ANG MO KIO ST 22",
+            "Location": "1.368509827 103.8386753",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 78,
+            "CarParkID": "A13",
+            "Development": "BLK 232/233 ANG MO KIO ST 22",
+            "Location": "1.368000222 103.8368096",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A15",
+            "Development": "BLK 226E-226H ANG MO KIO ST 22",
+            "Location": "1.36696761 103.8404175",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A20",
+            "Development": "BLK 304/307/319 ANG MO KIO ST 31",
+            "Location": "1.364943381 103.8484571",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 319,
+            "CarParkID": "A21",
+            "Development": "BLK 325/326/301 ANG MO KIO STREET 31",
+            "Location": "1.368127559 103.8463132",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 119,
+            "CarParkID": "A24",
+            "Development": "BLK 338/340 ANG MO KIO ST 32",
+            "Location": "1.364753412 103.8493977",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 216,
+            "CarParkID": "A25",
+            "Development": "BLK 330/337 ANG MO KIO AVE 8",
+            "Location": "1.362769307 103.8516275",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 136,
+            "CarParkID": "A26",
+            "Development": "BLK 113/114/118 ANG MO KIO AVE 4",
+            "Location": "1.372770202 103.8354476",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 76,
+            "CarParkID": "A27",
+            "Development": "BLK 108/109/110 ANG MO KIO ST 11",
+            "Location": "1.370363052 103.8383207",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A28",
+            "Development": "BLK 103/105/107 ANG MO KIO ST 11",
+            "Location": "1.371649928 103.8374643",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 189,
+            "CarParkID": "A29",
+            "Development": "BLK 347 ANG MO KIO AVENUE 3",
+            "Location": "1.367361242 103.8487183",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A30",
+            "Development": "BLK 129/134 ANG MO KIO STREET 12",
+            "Location": "1.370989747 103.842419",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 31,
+            "CarParkID": "A31",
+            "Development": "BLK 119/128 ANG MO KIO ST 12",
+            "Location": "1.370451119 103.8436999",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A33",
+            "Development": "BLK 253/254 ANG MO KIO STREET 21",
+            "Location": "1.369886364 103.8345405",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 74,
+            "CarParkID": "A34",
+            "Development": "BLK 422/425 ANG MO KIO ST 42",
+            "Location": "1.368356473 103.8516674",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 222,
+            "CarParkID": "A35",
+            "Development": "BLK 426/428/435 ANG MO KIO ST 43",
+            "Location": "1.368646393 103.8540815",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 252,
+            "CarParkID": "A36",
+            "Development": "BLK 436/443/445 ANG MO KIO ST 43",
+            "Location": "1.366407128 103.8552788",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 77,
+            "CarParkID": "A37",
+            "Development": "BLK 446/449/453 ANG MO KIO ST 43",
+            "Location": "1.368113068 103.8555566",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 382,
+            "CarParkID": "A38",
+            "Development": "BLK 407/410/421 ANG MO KIO AVE 10",
+            "Location": "1.363963706 103.8545884",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 18,
+            "CarParkID": "A39",
+            "Development": "BLK 401/405 ANG MO KIO AVE 10",
+            "Location": "1.361151022 103.8540722",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 194,
+            "CarParkID": "A40",
+            "Development": "BLK 471/476 ANG MO KIO ST 44",
+            "Location": "1.362356151 103.8569821",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 93,
+            "CarParkID": "A41",
+            "Development": "BLK 466/470 ANG MO KIO ST 44",
+            "Location": "1.364936935 103.8569326",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 82,
+            "CarParkID": "A42",
+            "Development": "BLK 461/465 ANG MO KIO ST 44",
+            "Location": "1.366580182 103.8573639",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A43",
+            "Development": "BLK 457/458/460 ANG MO KIO ST 44",
+            "Location": "1.365996736 103.8592673",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 42,
+            "CarParkID": "A44",
+            "Development": "BLK 459/456 ANG MO KIO ST 44",
+            "Location": "1.367205743 103.8589905",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 180,
+            "CarParkID": "A45",
+            "Development": "BLK 570/578 ANG MO KIO ST 51",
+            "Location": "1.370917693 103.8552305",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 116,
+            "CarParkID": "A47",
+            "Development": "BLK 562/565/560 ANG MO KIO STREET 54",
+            "Location": "1.370558167 103.8592466",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 6,
+            "CarParkID": "A48",
+            "Development": "BLK 571/73 ANG MO KIO ST 51",
+            "Location": "1.370371281 103.8546523",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 2,
+            "CarParkID": "A49",
+            "Development": "BLK 555/559 ANG MO KIO STREET 54",
+            "Location": "1.371329606 103.8577971",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 12,
+            "CarParkID": "A50",
+            "Development": "BLK 548/552/556 ANG MO KIO STREET 54",
+            "Location": "1.372522464 103.8576096",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 9,
+            "CarParkID": "A51",
+            "Development": "BLK 252/253A ANG MO KIO STREET 21",
+            "Location": "1.369470739 103.8343753",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 74,
+            "CarParkID": "A52",
+            "Development": "BLK 701/716 ANG MO KIO AVE 3/6",
+            "Location": "1.370385433 103.8469225",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 762,
+            "CarParkID": "A53",
+            "Development": "BLK 712A ANG MO KIO AVE 3/6",
+            "Location": "1.370865023 103.8468773",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 636,
+            "CarParkID": "A54",
+            "Development": "BLK 727/728 ANG MO KIO AVE 6",
+            "Location": "1.372434359 103.8459154",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 16,
+            "CarParkID": "A59",
+            "Development": "BLK 547/551 ANG MO KIO ST 54",
+            "Location": "1.373896221 103.8581398",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 222,
+            "CarParkID": "A60",
+            "Development": "BLK 540/546 ANG MO KIO ST 54",
+            "Location": "1.374464495 103.8559134",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 542,
+            "CarParkID": "A61",
+            "Development": "BLK 520/534/529 ANG MO KIO AVE 5/10",
+            "Location": "1.374170446 103.85216",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 308,
+            "CarParkID": "A63",
+            "Development": "BLK 501/513/508 ANG MO KIO ST 52/53",
+            "Location": "1.375176821 103.8493957",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 27,
+            "CarParkID": "A64",
+            "Development": "BLK 584/586 ANG MO KIO ST 51",
+            "Location": "1.370506585 103.8534735",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 44,
+            "CarParkID": "A65",
+            "Development": "BLK 558/560 ANG MO KIO STREET 54",
+            "Location": "1.371029159 103.8594172",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 9,
+            "CarParkID": "A66",
+            "Development": "BLK 601/604/603 ANG MO KIO AVE 5",
+            "Location": "1.380544931 103.8356606",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 275,
+            "CarParkID": "A67",
+            "Development": "BLK 605/612 ANG MO KIO AVE 4/5",
+            "Location": "1.379686324 103.8378049",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 4,
+            "CarParkID": "A68",
+            "Development": "BLK 620/624/626 ANG MO KIO ST 61",
+            "Location": "1.381897619 103.8398542",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 305,
+            "CarParkID": "A69",
+            "Development": "BLK 623/625/627 ANG MO KIO ST 61",
+            "Location": "1.381641458 103.8419454",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 68,
+            "CarParkID": "A70",
+            "Development": "BLK 629/626 ANG MO KIO AVE 4",
+            "Location": "1.380620641 103.8401072",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 95,
+            "CarParkID": "A71",
+            "Development": "BLK 628/632 ANG MO KIO ST 61",
+            "Location": "1.380009094 103.8407419",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 133,
+            "CarParkID": "A72",
+            "Development": "BLK 633/640 ANG MO KIO ST 61",
+            "Location": "1.380760963 103.8435303",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 174,
+            "CarParkID": "A73",
+            "Development": "BLK 641/645 ANG MO KIO ST 61",
+            "Location": "1.378848189 103.8408247",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 20,
+            "CarParkID": "A74",
+            "Development": "BLK 646/649 ANG MO KIO ST 61",
+            "Location": "1.37865168 103.8438047",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 128,
+            "CarParkID": "A75",
+            "Development": "BLK 177/182 ANG MO KIO AVE 4",
+            "Location": "1.376086591 103.8385877",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 320,
+            "CarParkID": "A76",
+            "Development": "BLK 613A ANG MO KIO AVENUE 4",
+            "Location": "1.377977112 103.8388348",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 70,
+            "CarParkID": "A77",
+            "Development": "BLK 150/156 ANG MO KIO AVE 5",
+            "Location": "1.376251001 103.8399554",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 332,
+            "CarParkID": "A78",
+            "Development": "BLK 157/163 ANG MO KIO AVE 4",
+            "Location": "1.374648501 103.8383868",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A81",
+            "Development": "BLK 170/172 ANG MO KIO ST 13",
+            "Location": "1.374355553 103.8364788",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 23,
+            "CarParkID": "A82",
+            "Development": "BLK 173/176 ANG MO KIO AVE 4",
+            "Location": "1.375674922 103.8363987",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 51,
+            "CarParkID": "A85",
+            "Development": "BLK 340 ANG MO KIO ST 32",
+            "Location": "1.365107378 103.8497094",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 44,
+            "CarParkID": "A87",
+            "Development": "BLK 462/463 ANG MO KIO ST 44",
+            "Location": "1.366826359 103.8578842",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "A88",
+            "Development": "BLK 348 ANG MO KIO AVE 3",
+            "Location": "1.366280716 103.8472665",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 104,
+            "CarParkID": "A94",
+            "Development": "BLK 104C ANG MO KIO STREET 11",
+            "Location": "1.371859827 103.838316",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 45,
+            "CarParkID": "A98",
+            "Development": "BLK 259 ANG MO KIO AVE 2",
+            "Location": "1.369164311 103.8318542",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 61,
+            "CarParkID": "ACB",
+            "Development": "BLK 270/271 ALBERT CENTRE BASEMENT CAR PARK",
+            "Location": "1.301063272 103.854118",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 65,
+            "CarParkID": "ACM",
+            "Development": "BLK 98A ALJUNIED CRESCENT",
+            "Location": "1.32100429 103.8850609",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "ACM",
+            "Development": "BLK 98A ALJUNIED CRESCENT",
+            "Location": "1.32100429 103.8850609",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 242,
+            "CarParkID": "ACM",
+            "Development": "BLK 98A ALJUNIED CRESCENT",
+            "Location": "1.32100429 103.8850609",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 121,
+            "CarParkID": "AH1",
+            "Development": "BLK 101 JALAN DUSUN",
+            "Location": "1.328283495 103.8446199",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "AR9",
+            "Development": "BLK 20/22/23 DOVER CRESCENT",
+            "Location": "1.307284363 103.7834396",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 1,
+            "CarParkID": "AR9",
+            "Development": "BLK 20/22/23 DOVER CRESCENT",
+            "Location": "1.307284363 103.7834396",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 18,
+            "CarParkID": "AR9",
+            "Development": "BLK 20/22/23 DOVER CRESCENT",
+            "Location": "1.307284363 103.7834396",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 161,
+            "CarParkID": "AV1",
+            "Development": "BLK 120/120A/121-127 ALEXANDRA VILLAGE",
+            "Location": "1.285582555 103.8032153",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 151,
+            "CarParkID": "B10",
+            "Development": "BLK 404/413 BEDOK NORTH AVENUE 3",
+            "Location": "1.329028331 103.9337077",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 423,
+            "CarParkID": "B11",
+            "Development": "BLK 416/418 BEDOK NORTH AVENUE 2",
+            "Location": "1.328342005 103.9303962",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 61,
+            "CarParkID": "B14",
+            "Development": "BLK 412/413 BEDOK NORTH AVENUE 2",
+            "Location": "1.329159093 103.9314451",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 147,
+            "CarParkID": "B16",
+            "Development": "BLK 32/63 BEDOK SOUTH AVENUE 2",
+            "Location": "1.323501118 103.9405595",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 109,
+            "CarParkID": "B17",
+            "Development": "BLK 52/57 NEW UPPER CHANGI ROAD",
+            "Location": "1.324217738 103.9418572",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 447,
+            "CarParkID": "B19",
+            "Development": "BLK 37/38/43/60 BEDOK SOUTH ROAD",
+            "Location": "1.321924546 103.940961",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 101,
+            "CarParkID": "B20",
+            "Development": "BLK 67/73 BEDOK SOUTH ROAD",
+            "Location": "1.319799714 103.9434204",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 184,
+            "CarParkID": "B21",
+            "Development": "BLK 74/82 BEDOK NORTH ROAD",
+            "Location": "1.328177963 103.9410465",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 14,
+            "CarParkID": "B24",
+            "Development": "BLK 84/89 BEDOK NORTH AVENUE 4",
+            "Location": "1.33264716 103.9382946",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "B25",
+            "Development": "BLK 91/97 BEDOK NORTH AVENUE 4",
+            "Location": "1.332969119 103.9404903",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 53,
+            "CarParkID": "B26",
+            "Development": "BLK 98/100 BEDOK NORTH AVENUE 4",
+            "Location": "1.334307987 103.9403406",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 78,
+            "CarParkID": "B27",
+            "Development": "BLK 101/106 BEDOK NORTH AVENUE 4",
+            "Location": "1.334117747 103.9380381",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 193,
+            "CarParkID": "B28",
+            "Development": "BLK 107/110 BEDOK NORTH ROAD",
+            "Location": "1.33254479 103.9355711",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 60,
+            "CarParkID": "B30",
+            "Development": "BLK 119/123 BEDOK NORTH STREET 2",
+            "Location": "1.329942835 103.9387534",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 193,
+            "CarParkID": "B31",
+            "Development": "BLK 124/129 BEDOK NORTH STREET 2",
+            "Location": "1.328501234 103.9388502",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 166,
+            "CarParkID": "B32",
+            "Development": "BLK 130/132 BEDOK NORTH STREET 2",
+            "Location": "1.32741067 103.9367575",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 179,
+            "CarParkID": "B33",
+            "Development": "BLK 131/122 BEDOK NORTH AVENUE 3",
+            "Location": "1.327240858 103.9358002",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 53,
+            "CarParkID": "B34",
+            "Development": "BLK 134/136 BEDOK NORTH AVENUE 3",
+            "Location": "1.328312294 103.9356734",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 48,
+            "CarParkID": "B35",
+            "Development": "BLK 137/140 BEDOK NORTH AVENUE 3",
+            "Location": "1.329058097 103.9351762",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 97,
+            "CarParkID": "B40",
+            "Development": "BLK 504/507 BEDOK NORTH STREET 3",
+            "Location": "1.332549948 103.9327701",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 12,
+            "CarParkID": "B41",
+            "Development": "BLK 510 BEDOK NORTH STREET 3",
+            "Location": "1.332554918 103.9314929",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 60,
+            "CarParkID": "B42",
+            "Development": "BLK 509/511 BEDOK NORTH STREET 3",
+            "Location": "1.332451791 103.9308212",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 75,
+            "CarParkID": "B43",
+            "Development": "BLK 519/522 553 BEDOK NORTH AVENUE 1/2",
+            "Location": "1.331105187 103.9276034",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 318,
+            "CarParkID": "B44",
+            "Development": "BLK 528/536 BEDOK NORTH STREET 3",
+            "Location": "1.333971252 103.9275088",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 6,
+            "CarParkID": "B45",
+            "Development": "BLK 537/539 BEDOK NORTH STREET 3",
+            "Location": "1.331679984 103.925429",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 66,
+            "CarParkID": "B46",
+            "Development": "BLK 537/538 BEDOK NORTH STREET 3",
+            "Location": "1.331321224 103.924182",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 139,
+            "CarParkID": "B47",
+            "Development": "BLK 540/542 BEDOK NORTH STREET 3",
+            "Location": "1.330895915 103.9222478",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 54,
+            "CarParkID": "B48",
+            "Development": "BLK 543/547 BEDOK NORTH STREET 3",
+            "Location": "1.330095928 103.9234212",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "B49",
+            "Development": "BLK 549/551 BEDOK NORTH AVENUE 1",
+            "Location": "1.332185767 103.9266682",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 133,
+            "CarParkID": "B50",
+            "Development": "BLK 601/605 BEDOK RESERVOIR ROAD",
+            "Location": "1.330447091 103.9130666",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 131,
+            "CarParkID": "B51",
+            "Development": "BLK 611/616 BEDOK RESERVOIR ROAD",
+            "Location": "1.3321465 103.9163962",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 70,
+            "CarParkID": "B52",
+            "Development": "BLK 617/624 BEDOK RESERVOIR ROAD",
+            "Location": "1.33390918 103.9178942",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 18,
+            "CarParkID": "B53",
+            "Development": "BLK 625/629 BEDOK RESERVOIR ROAD",
+            "Location": "1.334251489 103.9151772",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "B54",
+            "Development": "BLK 630/632 BEDOK RESERVOIR ROAD",
+            "Location": "1.333363744 103.9152037",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 172,
+            "CarParkID": "B57",
+            "Development": "BLK 701/708 BEDOK RESERVOIR ROAD",
+            "Location": "1.335843395 103.9190193",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 96,
+            "CarParkID": "B59",
+            "Development": "BLK 716/718/721 BEDOK RESERVOIR ROAD",
+            "Location": "1.337459185 103.9259534",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 78,
+            "CarParkID": "B60",
+            "Development": "BLK 722/725 BEDOK RESERVOIR ROAD",
+            "Location": "1.337194222 103.9290567",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 40,
+            "CarParkID": "B63",
+            "Development": "BLK 739/745 BEDOK RESERVOIR ROAD",
+            "Location": "1.338153727 103.9226165",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 195,
+            "CarParkID": "B65",
+            "Development": "BLK 155/172 BEDOK SOUTH ROAD/AVE 3",
+            "Location": "1.32003291 103.9456593",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 227,
+            "CarParkID": "B66",
+            "Development": "BLK 637A BEDOK RESERVOIR ROAD",
+            "Location": "1.330548155 103.9043396",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 23,
+            "CarParkID": "B67",
+            "Development": "BLK 649A JALAN TENAGA",
+            "Location": "1.332015772 103.9063948",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 164,
+            "CarParkID": "B69",
+            "Development": "BLK 94A BEDOK NORTH AVENUE 4",
+            "Location": "1.333426184 103.9419707",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 25,
+            "CarParkID": "B70",
+            "Development": "BLK 201 BEDOK NORTH ST 1",
+            "Location": "1.326289845 103.9279955",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 101,
+            "CarParkID": "B71",
+            "Development": "BLK 29C CHAI CHEE AVENUE",
+            "Location": "1.324293889 103.9243004",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 106,
+            "CarParkID": "B72",
+            "Development": "BLK 660A JALAN TENAGA",
+            "Location": "1.33437706 103.9073898",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 27,
+            "CarParkID": "B73",
+            "Development": "BLK 651A JALAN TENAGA",
+            "Location": "1.332492268 103.9069672",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 131,
+            "CarParkID": "B74",
+            "Development": "BLK 671A JALAN DAMAI",
+            "Location": "1.332846853 103.9090553",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 235,
+            "CarParkID": "B75",
+            "Development": "BLK 613C BEDOK RESERVOIR ROAD",
+            "Location": "1.333038103 103.9175262",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 823,
+            "CarParkID": "B79",
+            "Development": "BLK 772A BEDOK RESERVOIR VIEW",
+            "Location": "1.336776156 103.9374066",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 47,
+            "CarParkID": "B7A",
+            "Development": "BLK 216/218 BEDOK NORTH ST 1",
+            "Location": "1.327131692 103.934037",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "B7B",
+            "Development": "BEDOK CENTRAL",
+            "Location": "1.326521502 103.93484",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 234,
+            "CarParkID": "B80",
+            "Development": "BLK 739A BEDOK RESERVOIR ROAD",
+            "Location": "1.338268304 103.9233606",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 415,
+            "CarParkID": "B81",
+            "Development": "BLK 30A NEW UPPER CHANGI ROAD",
+            "Location": "1.323211124 103.9349426",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 92,
+            "CarParkID": "B83",
+            "Development": "BLK 21A CHAI CHEE ROAD",
+            "Location": "1.326469014 103.9222713",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 541,
+            "CarParkID": "B84",
+            "Development": "BLK 215A BEDOK CENTRAL",
+            "Location": "1.32622611 103.9342048",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 307,
+            "CarParkID": "B85",
+            "Development": "BLK 184 BEDOK NORTH RD",
+            "Location": "1.326080246 103.9413578",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 52,
+            "CarParkID": "B86",
+            "Development": "BLK 114A BEDOK NORTH ST 2",
+            "Location": "1.330720263 103.9355693",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 119,
+            "CarParkID": "B88",
+            "Development": "BLK 34A BED0K SOUTH AVE 2",
+            "Location": "1.322250932 103.938324",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 121,
+            "CarParkID": "B89",
+            "Development": "BLK 116A BEDOK NORTH ROAD",
+            "Location": "1.330959179 103.9372655",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 75,
+            "CarParkID": "B90",
+            "Development": "BLK 35A BEDOK SOUTH AVE 2",
+            "Location": "1.322520623 103.9396488",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 39,
+            "CarParkID": "B91",
+            "Development": "BLK 630 BEDOK RESERVOIR ROAD",
+            "Location": "1.332797324 103.9142523",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 376,
+            "CarParkID": "B92",
+            "Development": "BLK 2A BEDOK SOUTH AVE 1",
+            "Location": "1.321697394 103.9339351",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 245,
+            "CarParkID": "B94",
+            "Development": "BLK 513A BEDOK NORTH AVE 2",
+            "Location": "1.332260166 103.9293574",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 197,
+            "CarParkID": "B95",
+            "Development": "BLK 220 BEDOK CENTRAL",
+            "Location": "1.32551298 103.9350827",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 119,
+            "CarParkID": "B96",
+            "Development": "BLK 219 BEDOK CENTRAL",
+            "Location": "1.32496629 103.9329516",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 225,
+            "CarParkID": "B97",
+            "Development": "BLK 714A BEDOK RESERVOIR ROAD",
+            "Location": "1.33615579 103.9235081",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 224,
+            "CarParkID": "B98",
+            "Development": "BLK 748 BEDOK RESERVOIR CRESCENT",
+            "Location": "1.33607942 103.9219169",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 139,
+            "CarParkID": "BBB",
+            "Development": "BLK 232 BRAS BASAH BASEMENT CAR PARK",
+            "Location": "1.296580028 103.8536632",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 59,
+            "CarParkID": "BE3",
+            "Development": "BLK 401-408 SIN MING AVE",
+            "Location": "1.36236382 103.8344066",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 285,
+            "CarParkID": "BE4",
+            "Development": "BLK 101-116 BISHAN STREET 12",
+            "Location": "1.346495537 103.8483778",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 198,
+            "CarParkID": "BE5",
+            "Development": "BLK 117-134 BISHAN STREET 12",
+            "Location": "1.346177376 103.8509611",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 78,
+            "CarParkID": "BE6",
+            "Development": "BLK 135/138 BISHAN STREET 12",
+            "Location": "1.344748214 103.8518833",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 9,
+            "CarParkID": "BE7",
+            "Development": "BLK 139-144 BISHAN STREET 12",
+            "Location": "1.345004699 103.8530229",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 271,
+            "CarParkID": "BE8",
+            "Development": "BLK 145-150A, 151 BISHAN STREET 11",
+            "Location": "1.344436392 103.8553148",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 182,
+            "CarParkID": "BE9",
+            "Development": "BLK 153-167 BISHAN STREET 13",
+            "Location": "1.347170262 103.8561828",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 49,
+            "CarParkID": "BH1",
+            "Development": "BLK 1 THOMSON ROAD",
+            "Location": "1.324991365 103.8424599",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 38,
+            "CarParkID": "BH2",
+            "Development": "BLK 2 BALESTIER ROAD",
+            "Location": "1.326045973 103.8428582",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 88,
+            "CarParkID": "BJ1",
+            "Development": "BLK 130-140 CASHEW ROAD",
+            "Location": "1.37395668 103.769323",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 35,
+            "CarParkID": "BJ2",
+            "Development": "BLK 141-151 GANGSA/PETIR ROAD",
+            "Location": "1.376135031 103.7666613",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 220,
+            "CarParkID": "BJ3",
+            "Development": "BLK 101/129 GANGSA ROAD/PENDING ROAD",
+            "Location": "1.377310194 103.7693773",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 200,
+            "CarParkID": "BJ4",
+            "Development": "BLK 219/233 PETIR ROAD",
+            "Location": "1.375459719 103.7723545",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 261,
+            "CarParkID": "BJ8",
+            "Development": "BLK 201/218 PETIR ROAD",
+            "Location": "1.374612729 103.7737107",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 189,
+            "CarParkID": "BL3",
+            "Development": "BLK 174/179 BOON LAY DRIVE",
+            "Location": "1.346874708 103.7092346",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 240,
+            "CarParkID": "BL8",
+            "Development": "BLK 221 BOON LAY PLACE",
+            "Location": "1.345425134 103.7133909",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 281,
+            "CarParkID": "BLM",
+            "Development": "BLK 10 BENDEMEER ROAD",
+            "Location": "1.31550644 103.8609587",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 5,
+            "CarParkID": "BM1",
+            "Development": "BLK 28 JALAN BUKIT MERAH",
+            "Location": "1.286273508 103.8096692",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 19,
+            "CarParkID": "BM2",
+            "Development": "BLK 28 HOY FATT ROAD",
+            "Location": "1.286850768 103.8099531",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 2,
+            "CarParkID": "BM3",
+            "Development": "BLK 49/50 HOY FATT ROAD",
+            "Location": "1.287707766 103.8115278",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 7,
+            "CarParkID": "BM4",
+            "Development": "BLK 35A JALAN RUMAH TINGGI",
+            "Location": "1.287667284 103.8089551",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 4,
+            "CarParkID": "BM5",
+            "Development": "BLKS 8/10 JALAN RUMAH TINGGI",
+            "Location": "1.288431556 103.8076195",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 3,
+            "CarParkID": "BM5",
+            "Development": "BLKS 8/10 JALAN RUMAH TINGGI",
+            "Location": "1.288431556 103.8076195",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 1,
+            "CarParkID": "BM5",
+            "Development": "BLKS 8/10 JALAN RUMAH TINGGI",
+            "Location": "1.288431556 103.8076195",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "BM6",
+            "Development": "BLK 61 LENGKOK BAHRU",
+            "Location": "1.289533391 103.8137645",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 4,
+            "CarParkID": "BM6",
+            "Development": "BLK 61 LENGKOK BAHRU",
+            "Location": "1.289533391 103.8137645",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 12,
+            "CarParkID": "BM6",
+            "Development": "BLK 61 LENGKOK BAHRU",
+            "Location": "1.289533391 103.8137645",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 121,
+            "CarParkID": "BM9",
+            "Development": "BLK 58/59 LENGKOK BAHRU",
+            "Location": "1.289097999 103.814358",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 190,
+            "CarParkID": "BP1",
+            "Development": "BLK 101/109 BUKIT PURMEI ROAD",
+            "Location": "1.272794946 103.82487",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 166,
+            "CarParkID": "BP2",
+            "Development": "BLK 110/115 BUKIT PURMEI ROAD",
+            "Location": "1.274091691 103.8270043",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 192,
+            "CarParkID": "BR4",
+            "Development": "BLK 81/89 WHAMPOA DRIVE",
+            "Location": "1.32357726 103.8554214",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 40,
+            "CarParkID": "BR5",
+            "Development": "BLK 74/75 WHAMPOA DRIVE",
+            "Location": "1.324908971 103.8581906",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 68,
+            "CarParkID": "BR6",
+            "Development": "BLK 92 WHAMPOA DRIVE",
+            "Location": "1.323038825 103.8535358",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 39,
+            "CarParkID": "BR8",
+            "Development": "BLK 76/77 LORONG LIMAU",
+            "Location": "1.325160011 103.8545583",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 27,
+            "CarParkID": "BR9",
+            "Development": "BLK 69 MOULMEIN ROAD",
+            "Location": "1.31896257 103.8507431",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 167,
+            "CarParkID": "BRM",
+            "Development": "BLK 39 BENDEMEER ROAD",
+            "Location": "1.320747202 103.8661729",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 114,
+            "CarParkID": "BTM",
+            "Development": "BLK 2B BOON TIONG ROAD",
+            "Location": "1.286783924 103.8332897",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 149,
+            "CarParkID": "BTM",
+            "Development": "BLK 2B BOON TIONG ROAD",
+            "Location": "1.286783924 103.8332897",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "BTM",
+            "Development": "BLK 2B BOON TIONG ROAD",
+            "Location": "1.286783924 103.8332897",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 96,
+            "CarParkID": "BWM",
+            "Development": "BLK 2A JLN BUKIT MERAH",
+            "Location": "1.286875302 103.8066545",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "C10",
+            "Development": "BLK 339,341,344-345,371-381 CLEMENTI AVENUE 5",
+            "Location": "1.318463207 103.7689629",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 365,
+            "CarParkID": "C10",
+            "Development": "BLK 339,341,344-345,371-381 CLEMENTI AVENUE 5",
+            "Location": "1.318463207 103.7689629",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 146,
+            "CarParkID": "C10",
+            "Development": "BLK 339,341,344-345,371-381 CLEMENTI AVENUE 5",
+            "Location": "1.318463207 103.7689629",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 241,
+            "CarParkID": "C11",
+            "Development": "BLK 321-322,324-326 CLEMENTI AVENUE 5",
+            "Location": "1.31589499 103.7661416",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 190,
+            "CarParkID": "C12",
+            "Development": "BLK 301-302,305-308 CLEMENTI AVENUE 4",
+            "Location": "1.321789844 103.7661061",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 82,
+            "CarParkID": "C12",
+            "Development": "BLK 301-302,305-308 CLEMENTI AVENUE 4",
+            "Location": "1.321789844 103.7661061",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "C12",
+            "Development": "BLK 301-302,305-308 CLEMENTI AVENUE 4",
+            "Location": "1.321789844 103.7661061",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 121,
+            "CarParkID": "C16",
+            "Development": "BLK 430-435 CLEMENTI AVE 3",
+            "Location": "1.314313927 103.7624816",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 2,
+            "CarParkID": "C17",
+            "Development": "BLK 442-444,442A CLEMENTI AVE 3",
+            "Location": "1.313857729 103.7638966",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 1,
+            "CarParkID": "C17",
+            "Development": "BLK 442-444,442A CLEMENTI AVE 3",
+            "Location": "1.313857729 103.7638966",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 1,
+            "CarParkID": "C17",
+            "Development": "BLK 442-444,442A CLEMENTI AVE 3",
+            "Location": "1.313857729 103.7638966",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 50,
+            "CarParkID": "C18",
+            "Development": "BLK 426/428 CLEMENTI AVE 3",
+            "Location": "1.312271663 103.7633744",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 105,
+            "CarParkID": "C20",
+            "Development": "BLK 449-451 CLEMENTI AVE 3",
+            "Location": "1.313347821 103.7652617",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 56,
+            "CarParkID": "C24",
+            "Development": "BLK 110/118 CLEMENTI STREET 13",
+            "Location": "1.324197621 103.7712867",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 69,
+            "CarParkID": "C24",
+            "Development": "BLK 110/118 CLEMENTI STREET 13",
+            "Location": "1.324197621 103.7712867",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C24",
+            "Development": "BLK 110/118 CLEMENTI STREET 13",
+            "Location": "1.324197621 103.7712867",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 7,
+            "CarParkID": "C25",
+            "Development": "BLK 101-104 CLEMENTI STREET 14",
+            "Location": "1.322392723 103.7690555",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 47,
+            "CarParkID": "C25",
+            "Development": "BLK 101-104 CLEMENTI STREET 14",
+            "Location": "1.322392723 103.7690555",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C25",
+            "Development": "BLK 101-104 CLEMENTI STREET 14",
+            "Location": "1.322392723 103.7690555",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 4,
+            "CarParkID": "C26",
+            "Development": "BLK 105-107 CLEMENTI STREET 12",
+            "Location": "1.322587761 103.7699291",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 24,
+            "CarParkID": "C26",
+            "Development": "BLK 105-107 CLEMENTI STREET 12",
+            "Location": "1.322587761 103.7699291",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 9,
+            "CarParkID": "C26",
+            "Development": "BLK 105-107 CLEMENTI STREET 12",
+            "Location": "1.322587761 103.7699291",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 8,
+            "CarParkID": "C27",
+            "Development": "BLK 108/109 CLEMENTI STREET 11",
+            "Location": "1.322242263 103.7705128",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 7,
+            "CarParkID": "C27",
+            "Development": "BLK 108/109 CLEMENTI STREET 11",
+            "Location": "1.322242263 103.7705128",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C27",
+            "Development": "BLK 108/109 CLEMENTI STREET 11",
+            "Location": "1.322242263 103.7705128",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 90,
+            "CarParkID": "C29",
+            "Development": "BLK 501-505 WEST COAST DRIVE",
+            "Location": "1.312614612 103.7592318",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 100,
+            "CarParkID": "C30",
+            "Development": "BLK 507-509 WEST COAST DRIVE",
+            "Location": "1.311458097 103.7614211",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 19,
+            "CarParkID": "C31",
+            "Development": "BLK 510/511 WEST COAST ROAD",
+            "Location": "1.310563194 103.7605991",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 92,
+            "CarParkID": "C32",
+            "Development": "BLK 514-519 WEST COAST ROAD",
+            "Location": "1.308625559 103.7590812",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 278,
+            "CarParkID": "C33",
+            "Development": "BLK 601-613 CLEMENTI WEST STREET 1",
+            "Location": "1.304559438 103.7668576",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 17,
+            "CarParkID": "C34",
+            "Development": "BLK 702/703 WEST COAST ROAD",
+            "Location": "1.307010315 103.7609363",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 218,
+            "CarParkID": "C35",
+            "Development": "BLK 704-714 CLEMENTI WEST STREET 2",
+            "Location": "1.305612302 103.7614392",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "C36",
+            "Development": "BLK 728/729 CLEMENTI WEST STREET 2",
+            "Location": "1.305309675 103.7635574",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 199,
+            "CarParkID": "C37",
+            "Development": "BLK 720-727,730-731 CLEMENTI WEST STREET 2",
+            "Location": "1.303538317 103.7639717",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 66,
+            "CarParkID": "C38",
+            "Development": "BLK 715-717 CLEMENTI WEST STREET 2",
+            "Location": "1.302806668 103.7625268",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C3M",
+            "Development": "BLK 416A CLEMENTI AVE 1",
+            "Location": "1.309813588 103.770131",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 289,
+            "CarParkID": "C3M",
+            "Development": "BLK 416A CLEMENTI AVE 1",
+            "Location": "1.309813588 103.770131",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 260,
+            "CarParkID": "C3M",
+            "Development": "BLK 416A CLEMENTI AVE 1",
+            "Location": "1.309813588 103.770131",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 18,
+            "CarParkID": "C4M",
+            "Development": "BLK 413A COMMONWEALTH AVENUE WEST",
+            "Location": "1.311480109 103.7705025",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "C4M",
+            "Development": "BLK 413A COMMONWEALTH AVENUE WEST",
+            "Location": "1.311480109 103.7705025",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 167,
+            "CarParkID": "C4M",
+            "Development": "BLK 413A COMMONWEALTH AVENUE WEST",
+            "Location": "1.311480109 103.7705025",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "CAM",
+            "Development": "BLK 88 TANGLIN HALT RD",
+            "Location": "1.301821057 103.7982057",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 188,
+            "CarParkID": "CAM",
+            "Development": "BLK 88 TANGLIN HALT RD",
+            "Location": "1.301821057 103.7982057",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 96,
+            "CarParkID": "CAM",
+            "Development": "BLK 88 TANGLIN HALT RD",
+            "Location": "1.301821057 103.7982057",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 87,
+            "CarParkID": "CC1",
+            "Development": "BLK 1/2 CHAI CHEE STREET",
+            "Location": "1.326621271 103.9229114",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 102,
+            "CarParkID": "CC4",
+            "Development": "BLK 22/24, 59/63, 803/805 CHAI CHEE ROAD",
+            "Location": "1.325761538 103.9213875",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 53,
+            "CarParkID": "CC5",
+            "Development": "BLK 27 CHAI CHEE ROAD",
+            "Location": "1.324822461 103.9234007",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 53,
+            "CarParkID": "CC6",
+            "Development": "BLK 25-27 CHAI CHEE ROAD",
+            "Location": "1.323513814 103.9235646",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 67,
+            "CarParkID": "CC7",
+            "Development": "BLK 29/37 CHAI CHEE AVENUE",
+            "Location": "1.325246206 103.9256873",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 15,
+            "CarParkID": "CC8",
+            "Development": "BLK 55/58 CHAI CHEE DRIVE",
+            "Location": "1.326895488 103.9194412",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 57,
+            "CarParkID": "CC9",
+            "Development": "BLK 41/42 CHAI CHEE STREET",
+            "Location": "1.327720116 103.9259951",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 81,
+            "CarParkID": "CDM",
+            "Development": "BLK 54 CWEALTH DR",
+            "Location": "1.301636409 103.7967914",
+            "LotType": "Y"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "CDM",
+            "Development": "BLK 54 CWEALTH DR",
+            "Location": "1.301636409 103.7967914",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 204,
+            "CarParkID": "CDM",
+            "Development": "BLK 54 CWEALTH DR",
+            "Location": "1.301636409 103.7967914",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 32,
+            "CarParkID": "CK1",
+            "Development": "BLK 101/108 TECK WHYE LANE",
+            "Location": "1.377844092 103.7533965",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 136,
+            "CarParkID": "CK2",
+            "Development": "BLK 109/117 TECK WHYE LANE",
+            "Location": "1.379252781 103.7513717",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 71,
+            "CarParkID": "CK3",
+            "Development": "BLK 118/124 TECK WHYE LANE",
+            "Location": "1.378605924 103.7500625",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 2,
+            "CarParkID": "CK4",
+            "Development": "BLK 135-138,141,142 & 145 TECK WHYE LANE/AVE",
+            "Location": "1.380143703 103.7516624",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 26,
+            "CarParkID": "CK6",
+            "Development": "BLK 143, 144 & 146 TECK WHYE LANE",
+            "Location": "1.380732698 103.7531056",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 196,
+            "CarParkID": "CK7",
+            "Development": "BLK 135A TECK WHYE LANE",
+            "Location": "1.380282259 103.7519605",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 164,
+            "CarParkID": "CK8",
+            "Development": "BLK 201-221 CHOA CHU KANG CENTRAL",
+            "Location": "1.382086079 103.7471057",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "CK9",
+            "Development": "BLK 223-227 CHOA CHU KANG CENTRAL",
+            "Location": "1.381495974 103.7449178",
+            "LotType": "C"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 0,
+            "CarParkID": "CLM",
+            "Development": "BLK 129A CLARENCE LANE",
+            "Location": "1.292483012 103.8144006",
+            "LotType": "H"
+        },
+        {
+            "Agency": "HDB",
+            "Area": "",
+            "AvailableLots": 21,
+            "CarParkID": "CLM",
+            "Development": "BLK 129A CLARENCE LANE",
+            "Location": "1.292483012 103.8144006",
+            "LotType": "Y"
+        }
+    ]
+}
